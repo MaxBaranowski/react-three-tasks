@@ -7,6 +7,7 @@ export const Logo = () => <img alt="Startup Development House" src={logoImg} />;
 
 export const Root = styled.header`
   height: 5rem;
+  padding-left: 20px;
 `;
 
 export const Wrapper = styled.div`
